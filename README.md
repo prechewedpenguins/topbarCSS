@@ -1,21 +1,22 @@
 # topbarCSS
 
-read in raw format for proper formatting 
-
 top bar css gnome 
-_______________________________________________________________________________
+___
+
 add this to the panel section in your gnome-shell.cs:
 
+```css
 border-radius: 9px;
   height: 43px;
   margin-top: 19px;
   margin-right: 250px;
   margin-left: 250px;
+ ```
   
-  
-  _____________________________________________________________________________
+___
 In effect;
 
+```css
 /* Top Bar */
 #panel {
   background-color: #131020;
@@ -31,5 +32,6 @@ In effect;
   margin-right: 250px;
   margin-left: 250px;
 }
+```
 
 should work with any theme, make sure to disable blur my shell on the panel if you are using it, as it breaks some stuff usually
