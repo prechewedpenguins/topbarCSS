@@ -1,4 +1,7 @@
 # topbarCSS
+
+read in raw format for proper formatting 
+
 top bar css gnome 
 _______________________________________________________________________________
 add this to the panel section in your gnome-shell.cs:
