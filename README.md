@@ -35,6 +35,6 @@ In effect;
 }
 
 
-should work with any theme, make sure to disable blur my shell on the panel if you are using it, as it breaks some stuff usually
+should work with any theme, make sure to disable blur my shell on the panel if you are using it, as it breaks some stuff usually, (haven't found a work around to make the panel blurred sadly.)
 
 **Works on Gnome 42**
