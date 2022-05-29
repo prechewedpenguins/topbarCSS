@@ -11,6 +11,7 @@ border-radius: 9px;
   margin-top: 19px;
   margin-right: 250px;
   margin-left: 250px;
+  margin: 5px 5px;
   
   (you can change the values but i find this looks best)
   _____________________________________________________________________________
