@@ -4,7 +4,7 @@ read in raw format for proper formatting
 
 top bar css gnome 
 _______________________________________________________________________________
-add this to the panel section in your gnome-shell.cs:
+add this to the panel section in your gnome-shell.cs with a text editor of your choice:
 
 border-radius: 9px;
   height: 43px;
@@ -12,7 +12,7 @@ border-radius: 9px;
   margin-right: 250px;
   margin-left: 250px;
   
-  
+  (you can change the values but i find this looks best)
   _____________________________________________________________________________
 In effect;
 
@@ -33,3 +33,5 @@ In effect;
 }
 
 should work with any theme, make sure to disable blur my shell on the panel if you are using it, as it breaks some stuff usually
+
+**Works on Gnome 42**
