@@ -20,7 +20,6 @@ In effect;
 #panel {
   background-color: #131020;
   font-weight: bold;
-  height: 32px;
   color: rgba(217, 224, 238, 0.7);
   font-feature-settings: "tnum";
   transition-duration: 250ms;
